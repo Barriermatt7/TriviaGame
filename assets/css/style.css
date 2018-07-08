@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html {
+    background-image: url(https://media.cntraveler.com/photos/5715168c80cf3e034f97238d/master/pass/skylines-dubai-cr-getty-470434611.jpg);
+    background-size: cover;
+}
+
+header, {
+    width: 100%;
+    margin: 28px auto;
+    padding: 0.25em 0.625em;
+  }
+  
+  h1 {
+      background: lightblue;
+      color: red;
+      font-size: 51px;
+      text-align: center;
+      padding-top: 43px;
+      padding-bottom: 51px;
+  }
+   
+
+body{
+    font-size: 40px;
+    font-family:'Raleway', sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+.button {
+    font-size: 20px;
+}
+
+
+
